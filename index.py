@@ -1,6 +1,9 @@
 x = 5
 y = "Lachlan"
-print(x)
-print(y)
 nameFirst = "Lachlan"
 nameLast = "Nash"
+nameFull = nameFirst + " " + nameLast
+print(x)
+print(y)
+print(nameFirst + " " + nameLast)
+print(nameFull)
