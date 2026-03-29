@@ -20,7 +20,7 @@ def read_all():
         return []
 
 # --- Main ---
-nameFirst = "Lachlan"
+nameFirst = "Sue"
 nameLast = "Nash"
 
 write_person(nameFirst, nameLast)
